@@ -168,5 +168,5 @@ def predictSubmission(train_path,test_path):
 if __name__=='__main__':
 
    print('LGB')
-   #pre=cross_validat('data/feature/train_v9.csv',0.2)
-   predictSubmission('data/feature/train_v9.csv','data/feature/test2_v9.csv')
+   #pre=cross_validat('data/feature/train_v8.csv',0.2)
+   predictSubmission('data/feature/train_v8.csv','data/feature/test2_v8.csv')
