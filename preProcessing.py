@@ -4,8 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.utils import shuffle
 
-#切割训练数据的代码，比赛模型使用的是按照时间切割cutTrainByTime
-
+#切割训练数据的代码
 def userFeatureCut(num=10):
     userFeature_data = []
     with open('data/origin/userFeature.data', mode='r', encoding='utf-8') as f:
