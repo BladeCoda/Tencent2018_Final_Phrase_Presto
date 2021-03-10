@@ -4,7 +4,9 @@
 两个LGB模型融合，最后成绩0.7534
 
 赛题为相似人群拓展（Lookalike），基于广告主提供的一个种子人群（又称为种子包），自动计算出与之相似的人群（称为扩展人群）。
-题目具体内容和相关介绍请看官网链接（包含原始数据）：http://algo.qq.com/home/information/info.html
+相关博客介绍：https://blog.csdn.net/HapHapYear/article/details/114643376?spm=1001.2014.3001.5502
+原始数据下载（初赛）：https://pan.baidu.com/s/1M0Ch4az50_RtGotmUJgqJA 提取码：50du
+2018题目手册：https://pan.baidu.com/s/1xDWQbpvvSikTxn1x1csJgQ 提取码：u5jr
 
 ------------------------------------
 由于本次比赛数据量巨大，加上本人能力和毕业季精力有限，本开源的成绩并不是很理想，仅供参考。
